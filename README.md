@@ -1,8 +1,8 @@
 <div align="center">
 
-# AI Website Cloner Template
+# UNITECH Website Agent Cloner
 
-### Clone any website with one command
+### AI-assisted website reverse engineering and recreation
 
 Give your AI coding agent a URL and watch it recreate the website as a clean Next.js app.
 
