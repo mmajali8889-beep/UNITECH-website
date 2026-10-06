@@ -8,10 +8,14 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 <!-- END:nextjs-agent-rules -->
 
-# Website Reverse-Engineer Template
+# UNITECH Website Agent Cloner
 
 ## What This Is
-A reusable template for reverse-engineering any website into a clean, modern Next.js codebase using AI coding agents. The Next.js + shadcn/ui + Tailwind v4 base is pre-scaffolded — just run `/clone-website <url1> [<url2> ...]`.
+A UNITECH-maintained website reverse-engineering agent workspace. Use `/clone-website <url1> [<url2> ...]` to inspect a target site and rebuild it as editable Next.js code while preserving existing routes and assets.
+
+Repository: `https://github.com/mmajali8889-beep/UNITECH-website.git`
+
+Before cloning, run `npm run agent:check`. After cloning, run `npm run clone:ready` and then `npm run check`.
 
 ## Tech Stack
 - **Framework:** Next.js 16 (App Router, React 19, TypeScript strict)
